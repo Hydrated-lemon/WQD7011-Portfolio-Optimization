@@ -15,7 +15,7 @@ Modern Portfolio Theory (MPT), developed by Harry Markowitz in the 1950s, is a c
 
 1. `port1.txt`: Includes covariance matrices and expected return vectors for a range of asset sizes.
 2. `portef1.txt`: The theoretical efficient frontier
-3. `WQD7011_project_codes`: Matlab Codes
+3. `WQD7011_project_codes.m`: Matlab Codes
 4. `Final_report.pdf`: Final Report
 
 ## Mathematical Formulation
